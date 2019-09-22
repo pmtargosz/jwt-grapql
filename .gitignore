@@ -23,3 +23,18 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 
+.idea/
+.vscode/
+node_modules/
+build/
+tmp/
+temp/
+config.ts
+
+server/.idea/
+server/.vscode/
+server/node_modules/
+server/build/
+server/tmp/
+server/temp/
+server/config.ts
